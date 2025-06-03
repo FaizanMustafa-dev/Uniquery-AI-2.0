@@ -6,6 +6,9 @@ import os
 import time
 from datetime import datetime
 from typing import List, Dict, Tuple, Optional
+from fpdf import FPDF
+import io
+
 
 # ============================================
 # CONSTANTS & CONFIGURATION
@@ -1053,12 +1056,6 @@ def main():
 # ============================================
 # ADDITIONAL PAGE COMPONENTS
 # ============================================
-import streamlit as st
-from fpdf import FPDF
-import io
-from datetime import datetime
-import streamlit as st
-from datetime import datetime
 
 class StudyBuddyPage:
     @staticmethod
