@@ -1054,7 +1054,7 @@ def main():
 # ADDITIONAL PAGE COMPONENTS
 # ============================================
 import streamlit as st
-
+from fpdf import FPDF
 import io
 from datetime import datetime
 import streamlit as st
