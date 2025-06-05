@@ -1,1 +1,1 @@
-# Uniquery-AI-Private
+# Uniquery-AI-2.0
