@@ -25,7 +25,7 @@ class AppConfig:
     WARNING_COLOR = "#F59E0B"
     
     API_URL = "https://api.groq.com/openai/v1/chat/completions"
-    API_KEY = "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"
+    API_KEY = "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"
     
     DEFAULT_MODEL = "llama3-8b-8192"
     MAX_TOKENS = 4000
@@ -1699,3 +1699,4 @@ class AboutPage:
 # ============================================
 if __name__ == "__main__":
     main()
+
