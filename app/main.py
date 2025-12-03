@@ -27,7 +27,7 @@ class AppConfig:
     API_URL = "https://api.groq.com/openai/v1/chat/completions"
     API_KEY = "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"
     
-    DEFAULT_MODEL = "llama3-8b-8192"
+    DEFAULT_MODEL = "llama-3.3-70b-versatile"
     MAX_TOKENS = 4000
     TEMPERATURE = 0.7
 
@@ -1699,4 +1699,5 @@ class AboutPage:
 # ============================================
 if __name__ == "__main__":
     main()
+
 
