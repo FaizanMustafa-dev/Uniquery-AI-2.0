@@ -25,7 +25,7 @@ class AppConfig:
     WARNING_COLOR = "#F59E0B"
     
     API_URL = "https://api.groq.com/openai/v1/chat/completions"
-    API_KEY = "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"
+    API_KEY = "https://uniquery-ai-app-wjdh52kld4q8zziprlg9gv.streamlit.app/"
     
     DEFAULT_MODEL = "llama-3.3-70b-versatile"
     MAX_TOKENS = 4000
